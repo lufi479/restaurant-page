@@ -125,3 +125,5 @@ function loadPage(){
     return menu;
 
 }
+
+export default loadPage;

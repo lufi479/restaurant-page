@@ -36,7 +36,7 @@ function loadHeader(){
 
     let contactLink = document.createElement("a");
     contactLink.href = "#";
-    contactLink.textContent = "Home";
+    contactLink.textContent = "Contact";
 
     contact.appendChild(contactLink);
 
