@@ -20,7 +20,7 @@
 }
 
 body{
-    background: url(../src/background.jpg), var(--darken-color);
+    background: url(imgs/background.jpg), var(--darken-color);
     background-size: cover;
     background-attachment: fixed;
     background-blend-mode: multiply;
